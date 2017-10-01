@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "country_code": "ua",
+    "phone_number": "+380910104703",
+    "carrier": {
+        "country_code": "ua",
+        "country_name": "Ukraine",
+        "description": "Ukr Telecom Mobile",
+        "prefix": "38091",
+        "number_score": "Risky number"
+    }
+}
