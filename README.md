@@ -16,6 +16,9 @@ Get Country name, Description, Carrier for a specific numbers or termination pre
 Use Cases:
 
 Build Whitelist/Blacklist systems through API
+
 Decrease SPAM/ROBO incoming calls
+
 Decrease Sim blockage 
+
 Reject the risky phone numbers calls before it hits your infrastructure
